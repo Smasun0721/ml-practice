@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+**/models/*.pkl
+day02/resource/手写数字识别.csv
